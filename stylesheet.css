@@ -1,12 +1,12 @@
 .btn-primary {
 	margin-right: 8px;
-	background-color: orange;
-	border-color: orange;
+	background-color: rgb(19, 18, 18);
+	border-color: rgb(20, 20, 18);
 	border-width: 2px;
 }
 
 
 .btn-primary:hover {
-	background-color: orange;
-	border-color: black;
+	background-color: rgb(27, 27, 25);
+	border-color: rgb(10, 9, 9);
 }

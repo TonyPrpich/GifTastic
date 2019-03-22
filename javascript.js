@@ -1,4 +1,4 @@
-var topics = ["kill-bill", "django-unchained", "resevoir-dogs",];
+var topics = ["kill-bill", "django-unchained", "reservoir-dogs",];
 
 
 

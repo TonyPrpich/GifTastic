@@ -1,4 +1,4 @@
-var topics = ["kill-bill", "django-unchained", "reservoir-dogs",];
+var topics = ["kill-bill", "django-unchained", "reservoir-dogs", "inglorious-bastards", "this-some-serious-gourmet-shit"];
 
 
 
@@ -33,7 +33,7 @@ $("#additional").on("click", function (event) {
 
 
 $(document).on("click", ".topic-button", function () {
-    $("#halloween-gif").empty(); 
+    $("#halloween-gif").empty();
 
     var apiKey = "c64ca2f719e54ca5baaaf7946271c6e4";
     var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + $(this).html() + "&api_key=" + apiKey + "&limit=10";

@@ -1,4 +1,4 @@
-var topics = ["kill bill", "django unchained", "reservoir dogs", "inglorious bastards", "this is some serious gourmet shit", "hateful eight", "pulp fiction", "jackie brown"];
+var topics = ["kill bill", "django unchained", "reservoir dogs", "inglorious bastards", "hateful eight", "pulp fiction", "jackie brown"];
 
 
 
